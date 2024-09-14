@@ -36,3 +36,4 @@ Tools required: Microsoft Excel, Data Analysis Add-in
  
 Expected Deliverables:  Design a sales dashboard that analyzes the sales based on various product categories. The company wants to add user control for product category so that users can select a category and can see the trend month-wise and product-wise accordingly.
 ![image](https://github.com/user-attachments/assets/fa488550-fe5b-475c-92dd-42beecc611ad)
+![Screenshot (142)](https://github.com/user-attachments/assets/31bb201d-9506-4e1e-a727-dd2529d5a7de)
